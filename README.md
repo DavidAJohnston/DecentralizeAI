@@ -5,9 +5,22 @@
 
 **List of resources for building Decentralized AI.**
 
+## Incentives, Payments, Funding 
+Morpheus: https://mor.org/
+
 ## Models
 Bittensor API Docs
 https://docs.bittensor.com/python-api/html/index.html
- 
+
+## Fine Tuning / Training
+NOUS Research
+
+## Compute
+Akash
+
+## Forges / Agent Builders
+Langchain / Langsmith
+
+
 
 
