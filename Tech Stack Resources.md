@@ -1,4 +1,4 @@
-# DecentralizeAI
+# Decentralize AI
 - Website: https://www.decentralizeai.org
 - X Profile: https://x.com/decentralaiorg/status/1726684615912595866?s=46
 - Event 01 in Austin December 9th 2023: https://lu.ma/dofjyni8
