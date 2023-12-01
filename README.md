@@ -1,11 +1,13 @@
 # DecentralizeAI
-Resources for building Decentralized AI.
+Website: https://www.decentralizeai.org
+X Profile: https://x.com/decentralaiorg/status/1726684615912595866?s=46
+Event 01 in Austin December 9th 2023: https://lu.ma/dofjyni8
 
-## Website: 
-https://www.decentralizeai.org
+**List of resources for building Decentralized AI.**
 
-## Luma Application: 
-https://lu.ma/dofjyni8
+## Models
+Bittensor API Docs
+https://docs.bittensor.com/python-api/html/index.html
+ 
 
-## X Profile:
-https://x.com/decentralaiorg/status/1726684615912595866?s=46
+
