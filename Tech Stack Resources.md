@@ -9,20 +9,19 @@
 Morpheus: https://mor.org/
 
 ## Models
-Bittensor API Docs
-https://docs.bittensor.com/python-api/html/index.html
-OpenCog Hyperon: https://hyperon.opencog.org/
+- Bittensor API Docs https://docs.bittensor.com/python-api/html/index.html
+- OpenCog Hyperon: https://hyperon.opencog.org/
 
 ## Fine Tuning / Training
-NOUS Research
+- NOUS Research
 
 ## Compute
-Akash
-HyperCycle: https://www.hypercycle.ai/
+- Akash
+- HyperCycle: https://www.hypercycle.ai/
 
 ## Forges / Agent Builders
-Langchain / Langsmith
-Actioneer: https://actioneer.ai
+- Langchain / Langsmith
+- Actioneer: https://actioneer.ai
 
 
 
